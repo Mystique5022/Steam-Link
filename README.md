@@ -8,7 +8,7 @@
 
 ## Games 
 
-1. FIFA 17 (Probably Backwards Compatible)
+1. FIFA 17
   * Set resolution to Fullscreen, and make sure it has no chance to open in a window
   * For UltraHD monitors, you might need to make a custom resolution in NVidia CP by subtracting 4 pixels from resolution width (2560->2556x1440)
   * Go to path-to-game\FIFASetup\
