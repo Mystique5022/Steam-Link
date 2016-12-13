@@ -8,9 +8,9 @@
   * So far, it seems the Steam Link can only be turned on by a controller that is plugged in via USB.
 
 ## Requirements
+ * Steam Link
  * XBox One Controller (Wireless)
  * XBox One Wireless Adapter for controller
- * Steam Link
  * Virtual Here (Purchase on Steam Store)
   
 ## Setup
