@@ -28,7 +28,6 @@ START "%nircmd%" nircmd setcursor 9000 0
 timeout /t 10 /nobreak
 tasklist /fi "imagename eq %process%" |find ":" > nul
 if errorlevel 1 goto loop
-exit
 
 echo Cleaning up..
 taskkill /f /im %loader%
