@@ -14,13 +14,20 @@
  * Virtual Here (Purchase on Steam Store)
   
 ## Setup
-1. XBox One Controller  
-  * Turn on Steam Link with controller physically plugged in via USB.
+1. VirtualHere
+  * On host PC, buy and download VirtualHere.
+  * If the program does not run by itself, run it. (It will be under software, not games)
+  
+2. XBox One Controller  
+  * Plug in wireless adapter into Steam Link.
+  * Start Steam Link with XBox One Controller controlled plugged in via USB.
   * Before selecting host PC, click Settings.
   * Ensure that the USB driver for VirtualHere is enabled.
-  * Start Steam Link
-  * Unplug controller from Steam Link. Try to pair it with the adapter.
-  * Go to host PC. Look in VirtualHere program under USB for "XBOX ACC"
+  * Enter the host PC, log into the Steam Link as normal.
+  * Unplug controller from Steam Link. 
+  * Try to now pair controller with the adapter using the pairing buttons on both.
+  * Once initiated, go to host PC. 
+  * Look in VirtualHere (check tray) program under USB tree for a device "XBOX ACC"
   * Right click and choose the option "Automatically Use Device / Port" 
   * It should now say "XBOX ACC (In use by you)"
   * The controller should now work with the Steam Link.
