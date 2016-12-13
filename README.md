@@ -1,10 +1,12 @@
 # Steam-Link
 
-Overall Guide
-  * To Be Added
-  ** Wireless controller set up, Virtual Here setup...
+## Steam Link configurations, guides, and batch files for science!
 
-Games 
+### Overall Guide
+  * To Be Added
+  ..* Wireless controller set up, Virtual Here setup...
+
+## Games 
 
 1. FIFA
   * Set resolution to Fullscreen, and make sure it has no chance to open in a window
@@ -17,4 +19,3 @@ Games
   * Add Non-Steam game in Steam, select the FIFA.bat
   * Change the icon & enjoy!
   
-Steam Link configurations, guides, and batch files for science!
