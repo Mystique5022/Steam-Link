@@ -1,11 +1,30 @@
 # Steam-Link
 
-## Steam Link configurations, guides, and batch files for science!
+## Configurations, guides, and batch files for science and fun!
 
-### Overall Guide
-  * To Be Added
-  * Wireless controller set up, Virtual Here setup...
+### Notes
+  * These guide assumes that you have set up your Steam Link previously.
+  * The setup should only be needed once.
+  * So far, it seems the Steam Link can only be turned on by a controller that is plugged in via USB.
 
+## Requirements
+ * XBox One Controller (Wireless)
+ * XBox One Wireless Adapter for controller
+ * Steam Link
+ * Virtual Here (Purchase on Steam Store)
+  
+## Setup
+1. XBox One Controller  
+  * Turn on Steam Link with controller physically plugged in via USB.
+  * Before selecting host PC, click Settings.
+  * Ensure that the USB driver for VirtualHere is enabled.
+  * Start Steam Link
+  * Unplug controller from Steam Link. Try to pair it with the adapter.
+  * Go to host PC. Look in VirtualHere program under USB for "XBOX ACC"
+  * Right click and choose the option "Automatically Use Device / Port" 
+  * It should now say "XBOX ACC (In use by you)"
+  * The controller should now work with the Steam Link.
+  
 ## Games 
 
 1. FIFA 17
