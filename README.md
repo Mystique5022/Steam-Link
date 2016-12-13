@@ -15,7 +15,7 @@
   * Edit Config.ini
   * Add AUTO_LAUNCH = 1 to the top line of the .ini file
   * Save your changes.
-  * Copy nircmd.exe to desired folder along with FIFA.bat
+  * Download and copy [nircmd.exe](http://nircmd.nirsoft.net/) and [FIFA.bat](../master/FIFA.bat)
   * Use notepad to modify the file paths to match your own at the top in the FIFA.bat
   * Add Non-Steam game in Steam, select the FIFA.bat
   * Change the icon & enjoy!
