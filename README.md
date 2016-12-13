@@ -15,7 +15,8 @@
   * Edit Config.ini
   * Add AUTO_LAUNCH = 1 to the top line of the .ini file
   * Save your changes.
-  * Copy the FIFA.bat from repository to host machine
+  * Copy the FIFA.bat from this repository to host machine
+  * Use notepad to modify the file paths to match your own at the top in the FIFA.bat
   * Add Non-Steam game in Steam, select the FIFA.bat
   * Change the icon & enjoy!
   
