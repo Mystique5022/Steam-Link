@@ -4,7 +4,7 @@
 
 ### Overall Guide
   * To Be Added
-  ..* Wireless controller set up, Virtual Here setup...
+  * Wireless controller set up, Virtual Here setup...
 
 ## Games 
 
