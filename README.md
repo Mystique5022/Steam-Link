@@ -38,6 +38,7 @@
 
 1. FIFA 17
   * Set resolution to Fullscreen, and make sure it has no chance to open in a Window
+  * Ensure that the Overlay for Origin is turned OFF.
   * For UltraHD monitors, follow these steps if FIFA has trouble staying fullscreen on the host PC.
 	* Go to NVidia CP and add a custom resolution
 	* I would recommend subtracting 4 pixels from your resolution width (e.g. 2560 -> 2556 x 1440)
@@ -57,6 +58,7 @@
   
 2. Battlefield 1
   * Set Resolution to Fullscreen, and make sure it has no chance to open in a Window
+  * Ensure that the Overlay for Origin is turned OFF.
   * Download and copy [BF1.bat](../master/BF1.bat) to your host machine.
   * Use notepad to modify the file paths to match your own at the top in the BF1.bat file
   * Add Non-Steam game in Steam. 
