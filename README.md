@@ -32,11 +32,15 @@
   * It should now say "XBOX ACC (In use by you)"
   * The controller should now work with the Steam Link.
   
+  * Note that currently the XB1 Firmware paired directly WITH the Steam Link does NOT work properly.
+  
 ## Games 
 
 1. FIFA 17
   * Set resolution to Fullscreen, and make sure it has no chance to open in a window
-  * For UltraHD monitors, you might need to make a custom resolution in NVidia CP by subtracting 4 pixels from resolution width (2560->2556x1440)
+  * For UltraHD monitors, follow these steps if FIFA has trouble staying fullscreen on the host PC.
+	* Go to NVidia CP and add a custom resolution
+	* I would recommend subtracting 4 pixels from your resolution width (e.g. 2560 -> 2556 x 1440)
   * Go to path-to-game\FIFASetup\
   * Edit Config.ini
   * Add AUTO_LAUNCH = 1 to the top line of the .ini file
