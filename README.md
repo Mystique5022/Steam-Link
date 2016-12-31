@@ -42,9 +42,9 @@
 	* Go to NVidia CP and add a custom resolution
 	* I would recommend subtracting 4 pixels from your resolution width (e.g. 2560 -> 2556 x 1440)
 	* Try setting FIFA to use that resolution. Sometimes it helps it go into Fullscreen and stay there.
-  * Go to <path-to-game>\FIFASetup\
-  * Edit Config.ini
-  * Add AUTO_LAUNCH = 1 to the top line of the .ini file
+  * Go to C:\Program Files (x86)\Origin Games\FIFA 17\FIFASetup\  (YOUR path)
+  * Edit Config.ini in Notepad
+  * Add "AUTO_LAUNCH = 1" to the top line of the .ini file (no quotes).
   * Save your changes.
   * Download and copy [nircmd.exe](http://nircmd.nirsoft.net/) and [FIFA.bat](../master/FIFA.bat) to your host machine.
   * Use notepad to modify the file paths to match your own at the top in the FIFA.bat file
