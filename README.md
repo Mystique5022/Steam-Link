@@ -32,7 +32,7 @@
   * It should now say "XBOX ACC (In use by you)"
   * The controller should now work with the Steam Link.
   
-  * Note that currently the XB1 Firmware paired directly WITH the Steam Link does NOT work properly.
+  * Note that currently the XB1 Firmware paired directly WITH the Steam Link does NOT work properly. The only scenario I have been able to make this work is by pairing the XB1 controller to the XBox ACC with VirtualHere and not to the Steam Link itself. If it's paired wirelessly to the Steam Link, Origin games will read the controller as a Keyboard/Mouse.
   
 ## Games 
 
