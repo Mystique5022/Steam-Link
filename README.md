@@ -11,7 +11,7 @@
  * Steam Link
  * XBox One Controller (Wireless)
  * XBox One Wireless Adapter For Controller
- * Virtual Here (Purchase on Steam Store)
+ * VirtualHere (Available for Purchase on Steam Store)
   
 ## Setup
 1. VirtualHere
