@@ -41,7 +41,8 @@
   * For UltraHD monitors, follow these steps if FIFA has trouble staying fullscreen on the host PC.
 	* Go to NVidia CP and add a custom resolution
 	* I would recommend subtracting 4 pixels from your resolution width (e.g. 2560 -> 2556 x 1440)
-  * Go to path-to-game\FIFASetup\
+	* Try setting FIFA to use that resolution. Sometimes it helps it go into Fullscreen and stay there.
+  * Go to <path-to-game>\FIFASetup\
   * Edit Config.ini
   * Add AUTO_LAUNCH = 1 to the top line of the .ini file
   * Save your changes.
