@@ -32,7 +32,7 @@
   * It should now say "XBOX ACC (In use by you)"
   * The controller should now work with the Steam Link.
   
-  * Note that currently the XB1 Firmware 3.1.1221.0 paired directly WITH the Steam Link does NOT work properly with FIFA 17. The only scenario I have been able to make this work is by pairing the XB1 controller to the XBox ACC with VirtualHere and not to the Steam Link itself. If it's paired wirelessly to the Steam Link, Origin games will read the controller as a Keyboard/Mouse and be unable to function like a controller.
+  * Note that currently the XB1 Controller Firmware 3.1.1221.0 paired directly WITH the Steam Link does NOT work properly with FIFA 17. The only scenario I have been able to make this work is by pairing the XB1 controller to the XBox ACC with VirtualHere and not to the Steam Link itself. If it's paired wirelessly to the Steam Link, Origin games will read the controller as a Keyboard/Mouse and be unable to function like a controller.
   
 ## Games 
 
