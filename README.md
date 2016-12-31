@@ -37,7 +37,7 @@
 ## Games 
 
 1. FIFA 17
-  * Set resolution to Fullscreen, and make sure it has no chance to open in a window
+  * Set resolution to Fullscreen, and make sure it has no chance to open in a Window
   * For UltraHD monitors, follow these steps if FIFA has trouble staying fullscreen on the host PC.
 	* Go to NVidia CP and add a custom resolution
 	* I would recommend subtracting 4 pixels from your resolution width (e.g. 2560 -> 2556 x 1440)
@@ -54,4 +54,19 @@
 	* Find the enabled file in your Steam Library, and go to Properties.
 	* Click "Change" and filter by "All Files". Find the FIFA.bat file click ok.
   * Change the icon to something you'd prefer & enjoy!
+  
+2. Battlefield 1
+  * Set Resolution to Fullscreen, and make sure it has no chance to open in a Window
+  * Download and copy [BF1.bat](../master/BF1.bat) to your host machine.
+  * Use notepad to modify the file paths to match your own at the top in the BF1.bat file
+  * Add Non-Steam game in Steam. 
+	* Pick a random executable file to add, since it won't let you see bat files in the filter.
+	* Once you've added it, go ahead and enable it.
+	* Find the enabled file in your Steam Library, and go to Properties.
+	* Click "Change" and filter by "All Files". Find the BF1.bat file click ok.
+  * Change the icon to something you'd prefer & enjoy!	
+  
+ 
+## Known Issues
+  * G-Sync causes Black Screen - game might need to have G-Sync disabled.
   
