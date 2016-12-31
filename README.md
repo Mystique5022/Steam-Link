@@ -21,7 +21,7 @@
 2. XBox One Controller  
   * Plug in wireless adapter into Steam Link.
   * Start Steam Link with XBox One Controller controlled plugged in via USB. 
-   * A Steam Controller can substitute in these steps.
+	* A Steam Controller can substitute in these steps.
   * Before selecting host PC, click Settings.
   * Ensure that the USB driver for VirtualHere is enabled.
   * Enter the host PC, log into the Steam Link as normal.
@@ -39,9 +39,9 @@
   * Set resolution to Fullscreen, and make sure it has no chance to open in a Window
   * Ensure that the Overlay for Origin is turned OFF.
   * For UltraHD monitors, follow these steps if FIFA has trouble staying fullscreen on the host PC.
-   * Go to NVidia CP and add a custom resolution
-   * I would recommend subtracting 4 pixels from your resolution width (e.g. 2560 -> 2556 x 1440)
-   * Try setting FIFA to use that resolution. Sometimes it helps it go into Fullscreen and stay there.
+	* Go to NVidia CP and add a custom resolution
+	* I would recommend subtracting 4 pixels from your resolution width (e.g. 2560 -> 2556 x 1440)
+	* Try setting FIFA to use that resolution. Sometimes it helps it go into Fullscreen and stay there.
   * Go to C:\Program Files (x86)\Origin Games\FIFA 17\FIFASetup\  (YOUR path)
   * Edit Config.ini in Notepad
   * Add "AUTO_LAUNCH = 1" to the top line of the .ini file (no quotes).
@@ -49,10 +49,10 @@
   * Download and copy [nircmd.exe](http://nircmd.nirsoft.net/) and [FIFA.bat](../master/FIFA.bat) to your host machine.
   * Use notepad to modify the file paths to match your own at the top in the FIFA.bat file
   * Add Non-Steam game in Steam. 
-   * Pick a random executable file to add, since it won't let you see bat files in the filter.
-   * Once you've added it, go ahead and enable it.
-   * Find the enabled file in your Steam Library, and go to Properties.
-   * Click "Change" and filter by "All Files". Find the FIFA.bat file click ok.
+	* Pick a random executable file to add, since it won't let you see bat files in the filter.
+    * Once you've added it, go ahead and enable it.
+    * Find the enabled file in your Steam Library, and go to Properties.
+    * Click "Change" and filter by "All Files". Find the FIFA.bat file click ok.
   * Change the icon to something you'd prefer & enjoy!
   
 2. Battlefield 1
@@ -61,10 +61,10 @@
   * Download and copy [BF1.bat](../master/BF1.bat) to your host machine.
   * Use notepad to modify the file paths to match your own at the top in the BF1.bat file
   * Add Non-Steam game in Steam. 
-   * Pick a random executable file to add, since it won't let you see bat files in the filter.
-   * Once you've added it, go ahead and enable it.
-   * Find the enabled file in your Steam Library, and go to Properties.
-   * Click "Change" and filter by "All Files". Find the BF1.bat file click ok.
+    * Pick a random executable file to add, since it won't let you see bat files in the filter.
+    * Once you've added it, go ahead and enable it.
+    * Find the enabled file in your Steam Library, and go to Properties.
+    * Click "Change" and filter by "All Files". Find the BF1.bat file click ok.
   * Change the icon to something you'd prefer & enjoy!	
 
 3. World of Warcraft (WORK IN PROGRESS)
