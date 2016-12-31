@@ -44,7 +44,9 @@
   * Download and copy [nircmd.exe](http://nircmd.nirsoft.net/) and [FIFA.bat](../master/FIFA.bat) to your host machine.
   * Use notepad to modify the file paths to match your own at the top in the FIFA.bat file
   * Add Non-Steam game in Steam. 
-	* Once you've enabled it, go to properties, and change the path 
-  * select the FIFA.bat
-  * Change the icon & enjoy!
+	* Pick a random executable file to add, since it won't let you see bat files in the filter.
+	* Once you've added it, go ahead and enable it.
+	* Find the enabled file in your Steam Library, and go to Properties.
+	* Click "Change" and filter by "All Files". Find the FIFA.bat file click ok.
+  * Change the icon to something you'd prefer & enjoy!
   
