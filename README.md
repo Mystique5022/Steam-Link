@@ -67,7 +67,10 @@
 	* Find the enabled file in your Steam Library, and go to Properties.
 	* Click "Change" and filter by "All Files". Find the BF1.bat file click ok.
   * Change the icon to something you'd prefer & enjoy!	
-  
+
+3. World of Warcraft (WORK IN PROGRESS)
+  * Download and install WoWMapper
+    
  
 ## Known Issues
   * G-Sync causes Black Screen - game might need to have G-Sync disabled.
